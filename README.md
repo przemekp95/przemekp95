@@ -81,11 +81,11 @@ I build web applications with **Laravel** and **React**. Currently, I'm focusing
 
 ## 🧰 Technologies I work with
 
-- 🔹 [Laravel / PHP](https://github.com/przemekp95/casn2) – backend MVC, routing, Eloquent ORM  
+- 🔹 Laravel / PHP – backend MVC, routing, Eloquent ORM  
 - 🔹 JavaScript – basic use in views, dynamic UI elements  
 - 🔹 HTML / CSS – templates, responsiveness, Flexbox / Grid  
 - 🔹 WordPress – theme customization, PHP, CMS usage  
-- 🔹 Python – AI backend ([Whisper](https://github.com/openai/whisper), LLaMA, Coqui, RAG)  
+- 🔹 Python – AI backend (Whisper, LLaMA, Coqui, RAG)  
 - 🔹 MySQL – migrations, relations, Laravel queries  
 - 🔹 PostgreSQL *(learning)*  
 - 🔹 React / TypeScript *(learning – in progress)*  
