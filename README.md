@@ -1,5 +1,7 @@
 # 👋 Cześć, jestem Przemysław Pietrzak
 
+> ℹ️ English version available → [EN](#en)
+
 ### 💻 Full Stack Web Developer z Warszawy
 
 Buduję aplikacje webowe od backendu po frontend, z naciskiem na **wydajność, SEO i skalowalność**. Pracuję głównie z **Next.js, React, Laravel, Pythonem i WordPressem**. Mam doświadczenie zarówno w projektach własnych, jak i komercyjnych (wdrożenia dla klientów).  
