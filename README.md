@@ -12,13 +12,15 @@ Buduję aplikacje webowe od backendu po frontend, z naciskiem na **wydajność, 
 
 - 🔹 Next.js / React / TypeScript – nowoczesny frontend  
 - 🔹 Laravel / PHP – backend MVC, routing, Eloquent ORM  
-- 🔹 Python – web scraping, automatyzacja, REST API  
+- 🔹 Python – web scraping, automatyzacja  
 - 🔹 WordPress – customizacja, migracje, SEO  
 - 🔹 SQL (MySQL) – relacyjne bazy danych  
-- 🔹 HTML5 / CSS3 (Flexbox, Grid, Sass/SCSS) – layouty responsywne  
+- 🔹 HTML5 / CSS3 (Flexbox, Grid, Sass/SCSS, Tailwind) – layouty responsywne  
 - 🔹 Docker / VPS / Linux – wdrażanie i utrzymanie środowisk  
-- 🔹 Git – kontrola wersji i współpraca zespołowa  
-- 🔹 SEO – optymalizacja treści i techniczna  
+- 🔹 Git / GitHub – kontrola wersji  
+- 🔹 CI/CD (GitHub Actions) – lint, testy, build  
+- 🔹 Testy (Jest, React Testing Library, Cypress, PHPUnit) – jednostkowe i e2e  
+- 🔹 SEO i Lighthouse – audyty, optymalizacja treści i techniczna  
 
 ---
 
@@ -71,13 +73,15 @@ I build web applications from backend to frontend, focusing on **performance, SE
 
 - 🔹 Next.js / React / TypeScript – modern frontend  
 - 🔹 Laravel / PHP – backend MVC, routing, Eloquent ORM  
-- 🔹 Python – web scraping, automation, REST API  
+- 🔹 Python – web scraping, automation  
 - 🔹 WordPress – custom themes, migrations, SEO  
 - 🔹 SQL (MySQL) – relational databases  
-- 🔹 HTML5 / CSS3 (Flexbox, Grid, Sass/SCSS) – responsive layouts  
+- 🔹 HTML5 / CSS3 (Flexbox, Grid, Sass/SCSS, Tailwind) – responsive layouts  
 - 🔹 Docker / VPS / Linux – deployment and infrastructure  
-- 🔹 Git – version control and collaboration  
-- 🔹 SEO – content and technical optimization  
+- 🔹 Git / GitHub – version control  
+- 🔹 CI/CD (GitHub Actions) – lint, tests, build  
+- 🔹 Testing (Jest, React Testing Library, Cypress, PHPUnit) – unit & e2e  
+- 🔹 SEO & Lighthouse – audits, content and technical optimization  
 
 ---
 
