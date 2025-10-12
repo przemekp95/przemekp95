@@ -1,67 +1,6 @@
-# 👋 Cześć, jestem Przemysław Pietrzak
-
-> ℹ️ English version available → [EN](#en)
-
-### 💻 Full Stack Web Developer z Warszawy
-
-Buduję aplikacje webowe od backendu po frontend, z naciskiem na **wydajność, SEO i skalowalność**. Pracuję głównie z **Next.js, React, Laravel, Pythonem i WordPressem**. Mam doświadczenie zarówno w projektach własnych, jak i komercyjnych (wdrożenia dla klientów).  
-
----
-
-## 🧰 Technologie, z którymi pracuję
-
-- 🔹 Next.js / React / TypeScript – nowoczesny frontend  
-- 🔹 Laravel / PHP – backend MVC, routing, Eloquent ORM  
-- 🔹 Python – web scraping, automatyzacja  
-- 🔹 WordPress – customizacja, migracje, SEO  
-- 🔹 SQL (MySQL) – relacyjne bazy danych  
-- 🔹 HTML5 / CSS3 (Flexbox, Grid, Sass/SCSS, Tailwind) – layouty responsywne  
-- 🔹 Docker / VPS / Linux – wdrażanie i utrzymanie środowisk  
-- 🔹 Git / GitHub – kontrola wersji  
-- 🔹 CI/CD (GitHub Actions) – lint, testy, build  
-- 🔹 Testy (Jest, React Testing Library, Cypress, PHPUnit) – jednostkowe i e2e  
-- 🔹 SEO i Lighthouse – audyty, optymalizacja treści i techniczna  
-
----
-
-## 🚀 Moje projekty
-
-### 📰 [Mazowieści – Migracja i optymalizacja SEO](https://mazowiesci.pl)
-Migracja dużego portalu informacyjnego z WIX do WordPress. Zautomatyzowałem ekstrakcję artykułów (Python + Scrapy), stworzyłem skrypty PHP do integracji danych i wdrożyłem politykę SEO.  
-📈 Efekt: liczba słów kluczowych w TOP10 w Google wzrosła niemal **5x w ciągu 6 miesięcy**.  
-**Stack:** Python (Scrapy), WordPress, PHP, SEO, HTML, CSS, REST API  
-
----
-
-### 🏛️ [CASN – Aplikacja Laravel (MVP)](https://casn.pietrzakprzemyslaw.pl)
-Pierwsza wersja aplikacji webowej w Laravel: struktura MVC, routing, responsywne widoki Blade, deploy na hosting.  
-**Stack:** Laravel, PHP, Blade, Git, SEO  
-
----
-
-### 🏛️ [CASN – Upgrade do Next.js](https://casn.pl)
-Rozwój projektu CASN: modernizacja frontendu do **Next.js + TypeScript + MDX**, kompatybilność z wcześniejszą wersją Laravel.  
-**Stack:** Next.js, React, TypeScript, MDX, Bootstrap (legacy), Git  
-
----
-
-### 🌐 [Fundacja Służba Niepodległej – utrzymanie strony](https://sluzbaniepodleglej.pl)
-Administrowanie i rozwój strony fundacji opartej na WordPress: wdrażanie nowych podstron, poprawa wydajności, strategia SEO i optymalizacja treści.  
-**Stack:** WordPress, PHP, CSS, HTML, Google Search Console, SEO  
-
----
-
-## 📬 Kontakt
-
-- 🌍 [pietrzakprzemyslaw.pl](https://pietrzakprzemyslaw.pl)  
-- ✉️ p.pietrzak@sluzbaniepodleglej.pl  
-- 📍 Warszawa, Polska  
-
----
-
-<div id="en">
-
 # 👋 Hi, I'm Przemysław Pietrzak
+
+> ℹ️ Wersja polska → [PL](#pl)
 
 ### 💻 Full Stack Web Developer based in Warsaw, Poland
 
@@ -117,5 +56,68 @@ Maintained and enhanced the foundation’s WordPress-based website: new subpages
 - 🌍 [pietrzakprzemyslaw.pl](https://pietrzakprzemyslaw.pl)  
 - ✉️ p.pietrzak@sluzbaniepodleglej.pl  
 - 📍 Warsaw, Poland  
+
+---
+
+<div id="pl">
+
+# 👋 Cześć, jestem Przemysław Pietrzak
+
+> ℹ️ English version → [EN](#top)
+
+### 💻 Full Stack Web Developer z Warszawy
+
+Buduję aplikacje webowe od backendu po frontend, z naciskiem na **wydajność, SEO i skalowalność**. Pracuję głównie z **Next.js, React, Laravel, Pythonem i WordPressem**. Mam doświadczenie zarówno w projektach własnych, jak i komercyjnych (wdrożenia dla klientów).  
+
+---
+
+## 🧰 Technologie, z którymi pracuję
+
+- 🔹 Next.js / React / TypeScript – nowoczesny frontend  
+- 🔹 Laravel / PHP – backend MVC, routing, Eloquent ORM  
+- 🔹 Python – web scraping, automatyzacja  
+- 🔹 WordPress – customizacja, migracje, SEO  
+- 🔹 SQL (MySQL) – relacyjne bazy danych  
+- 🔹 HTML5 / CSS3 (Flexbox, Grid, Sass/SCSS, Tailwind) – layouty responsywne  
+- 🔹 Docker / VPS / Linux – wdrażanie i utrzymanie środowisk  
+- 🔹 Git / GitHub – kontrola wersji  
+- 🔹 CI/CD (GitHub Actions) – lint, testy, build  
+- 🔹 Testy (Jest, React Testing Library, Cypress, PHPUnit) – jednostkowe i e2e  
+- 🔹 SEO i Lighthouse – audyty, optymalizacja treści i techniczna  
+
+---
+
+## 🚀 Moje projekty
+
+### 📰 [Mazowieści – Migracja i optymalizacja SEO](https://mazowiesci.pl)
+Migracja dużego portalu informacyjnego z WIX do WordPress. Zautomatyzowałem ekstrakcję artykułów (Python + Scrapy), stworzyłem skrypty PHP do integracji danych i wdrożyłem politykę SEO.  
+📈 Efekt: liczba słów kluczowych w TOP10 w Google wzrosła niemal **5x w ciągu 6 miesięcy**.  
+**Stack:** Python (Scrapy), WordPress, PHP, SEO, HTML, CSS, REST API  
+
+---
+
+### 🏛️ [CASN – Aplikacja Laravel (MVP)](https://casn.pietrzakprzemyslaw.pl)
+Pierwsza wersja aplikacji webowej w Laravel: struktura MVC, routing, responsywne widoki Blade, deploy na hosting.  
+**Stack:** Laravel, PHP, Blade, Git, SEO  
+
+---
+
+### 🏛️ [CASN – Upgrade do Next.js](https://casn.pl)
+Rozwój projektu CASN: modernizacja frontendu do **Next.js + TypeScript + MDX**, kompatybilność z wcześniejszą wersją Laravel.  
+**Stack:** Next.js, React, TypeScript, MDX, Bootstrap (legacy), Git  
+
+---
+
+### 🌐 [Fundacja Służba Niepodległej – utrzymanie strony](https://sluzbaniepodleglej.pl)
+Administrowanie i rozwój strony fundacji opartej na WordPress: wdrażanie nowych podstron, poprawa wydajności, strategia SEO i optymalizacja treści.  
+**Stack:** WordPress, PHP, CSS, HTML, Google Search Console, SEO  
+
+---
+
+## 📬 Kontakt
+
+- 🌍 [pietrzakprzemyslaw.pl](https://pietrzakprzemyslaw.pl)  
+- ✉️ p.pietrzak@sluzbaniepodleglej.pl  
+- 📍 Warszawa, Polska  
 
 </div>
