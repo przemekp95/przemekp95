@@ -6,10 +6,9 @@
 > I build scalable web apps, API integrations, automation,
 > and SEO-aware migrations for SMEs, NGOs, and product teams.
 
-[Website](https://pietrzakprzemyslaw.pl) •
-[Email](mailto:contact@pietrzakprzemyslaw.pl) •
-[LinkedIn](https://www.linkedin.com/in/przempietrzak/) •
-[GitHub](https://github.com/przemekp95)
+| [![Website][w-badge]][w-url]   | [![Email][e-badge]][e-url]       |
+|:------------------------------:|:--------------------------------:|
+| [![LinkedIn][l-badge]][l-url]  | [![GitHub][g-badge]][g-url]      |
 
 ## What I Build
 
@@ -120,3 +119,12 @@ Najważniejsze efekty:
 - migracja **1200+ artykułów** z Wix do WordPressa
 - obniżenie kosztów utrzymania IT o **około 90%**
 - podniesienie pokrycia testami do **95%**
+
+[w-badge]: https://img.shields.io/badge/Website-pietrzakprzemyslaw.pl-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white
+[w-url]: https://pietrzakprzemyslaw.pl
+[e-badge]: https://img.shields.io/badge/Email-contact%40pietrzakprzemyslaw.pl-1f2937?style=for-the-badge&logo=gmail&logoColor=white
+[e-url]: mailto:contact@pietrzakprzemyslaw.pl
+[l-badge]: https://img.shields.io/badge/LinkedIn-Przemyslaw_Pietrzak-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white
+[l-url]: https://www.linkedin.com/in/przempietrzak/
+[g-badge]: https://img.shields.io/badge/GitHub-przemekp95-111827?style=for-the-badge&logo=github&logoColor=white
+[g-url]: https://github.com/przemekp95
