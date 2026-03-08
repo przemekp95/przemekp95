@@ -1,12 +1,14 @@
 # Przemysław Pietrzak
 
-![Profile banner](assets/readme-banner.svg)
-
 > Fullstack Developer based in Warsaw, Poland.
 > I build scalable web apps, API integrations, automation,
 > and SEO-aware migrations for SMEs, NGOs, and product teams.
 
 <!-- markdownlint-disable MD033 -->
+<p align="center">
+  <img src="assets/readme-banner.svg" alt="Profile banner" />
+</p>
+
 <p align="center">
   <a href="https://pietrzakprzemyslaw.pl">
     <img
@@ -14,18 +16,23 @@
       alt="Website"
     />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:contact@pietrzakprzemyslaw.pl">
     <img
       src="https://img.shields.io/badge/Email-contact%40pietrzakprzemyslaw.pl-1f2937?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/przempietrzak/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Przemyslaw_Pietrzak-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/przemekp95">
     <img
       src="https://img.shields.io/badge/GitHub-przemekp95-111827?style=for-the-badge&logo=github&logoColor=white"
