@@ -1,0 +1,51 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1320"/>
+      <stop offset="0.55" stop-color="#0F2E3A"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="line" x1="830" y1="82" x2="1148" y2="286" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#99F6E4"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1086" cy="78" r="118" fill="#38BDF8" fill-opacity="0.08"/>
+  <circle cx="1188" cy="266" r="124" fill="#99F6E4" fill-opacity="0.10"/>
+  <circle cx="1014" cy="290" r="68" fill="#E2E8F0" fill-opacity="0.08"/>
+
+  <rect x="64" y="60" width="134" height="28" rx="14" fill="#134E4A"/>
+  <text x="84" y="79" fill="#CCFBF1" font-size="16" font-family="Segoe UI, Arial, sans-serif" font-weight="700">
+    FULLSTACK
+  </text>
+
+  <text x="64" y="146" fill="#F8FAFC" font-size="46" font-family="Segoe UI, Arial, sans-serif" font-weight="800" letter-spacing="0.04em">
+    PRZEMYSLAW
+  </text>
+  <text x="64" y="198" fill="#F8FAFC" font-size="46" font-family="Segoe UI, Arial, sans-serif" font-weight="800" letter-spacing="0.04em">
+    PIETRZAK
+  </text>
+
+  <text x="64" y="240" fill="#C7D2FE" font-size="20" font-family="Segoe UI, Arial, sans-serif" font-weight="600">
+    Scalable apps. Integrations. Automation. SEO-aware delivery.
+  </text>
+
+  <text x="64" y="292" fill="#94A3B8" font-size="18" font-family="Segoe UI, Arial, sans-serif">
+    TypeScript  •  React  •  Next.js  •  Node.js  •  NestJS  •  Symfony  •  Laravel
+  </text>
+
+  <rect x="796" y="62" width="404" height="236" rx="22" fill="#0B1220" fill-opacity="0.52" stroke="#7DD3FC" stroke-opacity="0.16"/>
+  <rect x="824" y="92" width="348" height="26" rx="13" fill="#0F172A" stroke="#1E293B"/>
+  <circle cx="850" cy="105" r="5" fill="#F87171"/>
+  <circle cx="870" cy="105" r="5" fill="#FBBF24"/>
+  <circle cx="890" cy="105" r="5" fill="#34D399"/>
+
+  <path d="M850 158H940" stroke="#38BDF8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M850 190H1114" stroke="#E2E8F0" stroke-opacity="0.88" stroke-width="10" stroke-linecap="round"/>
+  <path d="M850 222H1044" stroke="#99F6E4" stroke-opacity="0.92" stroke-width="10" stroke-linecap="round"/>
+  <path d="M850 254H1092" stroke="url(#line)" stroke-width="10" stroke-linecap="round"/>
+
+  <path d="M987 132L1026 173L1102 113" stroke="#99F6E4" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

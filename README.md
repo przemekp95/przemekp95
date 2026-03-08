@@ -1,123 +1,122 @@
-# 👋 Hi, I'm Przemysław Pietrzak
+# Przemysław Pietrzak
 
-> ℹ️ Wersja polska → [PL](#pl)
+![Profile banner](assets/readme-banner.svg)
 
-### 💻 Full Stack Web Developer based in Warsaw, Poland
+> Fullstack Developer based in Warsaw, Poland.
+> I build scalable web apps, API integrations, automation,
+> and SEO-aware migrations for SMEs, NGOs, and product teams.
 
-I build web applications from backend to frontend, focusing on **performance, SEO, and scalability**. My main stack includes **Next.js, React, Laravel, Python, and WordPress**. I work on both commercial and personal projects.
+[Website](https://pietrzakprzemyslaw.pl) •
+[Email](mailto:contact@pietrzakprzemyslaw.pl) •
+[LinkedIn](https://www.linkedin.com/in/przempietrzak/) •
+[GitHub](https://github.com/przemekp95)
 
----
+## What I Build
 
-## 🧰 Technologies I work with
+- Product MVPs, internal platforms, and bespoke business tools.
+- Integrations with REST, SOAP, webhooks, OAuth2, and public registries.
+- Modernization of legacy PHP and WordPress systems into maintainable stacks.
+- Delivery pipelines with tests, CI/CD, security checks,
+  and infrastructure automation.
 
-- 🔹 Next.js / React / TypeScript – modern frontend  
-- 🔹 Laravel / PHP – backend MVC, routing, Eloquent ORM  
-- 🔹 Python – web scraping, automation  
-- 🔹 WordPress – custom themes, migrations, SEO  
-- 🔹 SQL (MySQL) – relational databases  
-- 🔹 HTML5 / CSS3 (Flexbox, Grid, Sass/SCSS, Tailwind) – responsive layouts  
-- 🔹 Docker / VPS / Linux – deployment and infrastructure  
-- 🔹 Git / GitHub – version control  
-- 🔹 CI/CD (GitHub Actions) – lint, tests, build  
-- 🔹 Testing (Jest, React Testing Library, Cypress, PHPUnit) – unit & e2e  
-- 🔹 SEO & Lighthouse – audits, content and technical optimization  
+## Selected Results
 
----
+- Grew a client portal's Google top-10 visibility by **5x in 6 months**.
+- Migrated **1200+ articles** from Wix to WordPress with automation.
+- Cut infrastructure and maintenance costs by **about 90%**
+  after VPS migration and optimization.
+- Raised automated testing coverage to **95%**
+  in projects using Jest and Cypress.
 
-## 🚀 My Projects
+## Featured Projects
 
-### 📰 [Mazowieści – Migration & SEO Optimization](https://mazowiesci.pl)
-Migrated a large news portal from WIX to WordPress. Automated article extraction (Python + Scrapy), built custom PHP integration scripts, and implemented an SEO strategy.  
-📈 Result: number of keywords in Google TOP10 increased nearly **5x within 6 months**.  
-**Stack:** Python (Scrapy), WordPress, PHP, SEO, HTML, CSS, REST API  
+### [PP Solutions](https://ppsolutions.com.pl/)
 
----
+Custom CMS and lightweight CRM for a service business.
 
-### 🏛️ [CASN – Laravel App (MVP)](https://casn.pietrzakprzemyslaw.pl)
-First version of CASN web application in Laravel: MVC structure, routing, responsive Blade views, hosting deployment.  
-**Stack:** Laravel, PHP, Blade, Git, SEO  
+- Focus: lead intake, client communication, and admin dashboards.
+- Outcome: one platform for website content, project intake,
+  and internal operations.
+- Stack: `Next.js`, `Node.js`, `Express`, `TypeScript`, `PostgreSQL`,
+  `Redis`, `BullMQ`, `OAuth2`, `JWT`, `Ansible`
 
----
+### LegatoDesk
 
-### 🏛️ [CASN – Next.js Upgrade](https://casn.pl)
-Developed the project further by upgrading the frontend to **Next.js + TypeScript + MDX**, ensuring compatibility with the original Laravel version.  
-**Stack:** Next.js, React, TypeScript, MDX, Bootstrap (legacy), Git  
+Legal-tech product built around a TypeScript-first platform
+and background job processing.
 
----
+- Focus: modular product development for the legal industry.
+- Stack: `Next.js`, `NestJS`, `TypeScript`, `Redux Toolkit`,
+  `Redux Saga`, `Redis`, `BullMQ`, `REST APIs`
 
-### 🌐 [Fundacja Służba Niepodległej – Website Maintenance](https://sluzbaniepodleglej.pl)
-Maintained and enhanced the foundation’s WordPress-based website: new subpages, performance improvements, SEO strategy and content optimization.  
-**Stack:** WordPress, PHP, CSS, HTML, Google Search Console, SEO  
+### ORGON
 
----
+Modular HR system delivered in Symfony with containerized environments
+and CI/CD.
 
-## 📬 Contact
+- Focus: maintainability, deployment consistency, and performance.
+- Stack: `Symfony`, `Twig`, `MySQL`, `Docker`, `Kubernetes`, `Vue`,
+  `FastAPI`, `Trivy`
 
-- 🌍 [pietrzakprzemyslaw.pl](https://pietrzakprzemyslaw.pl)  
-- ✉️ p.pietrzak@sluzbaniepodleglej.pl  
-- 📍 Warsaw, Poland  
+### [CASN](https://casn.pl/)
 
----
+Full modernization from Laravel to `Next.js + TypeScript + MDX`.
 
-<div id="pl">
+- Focus: release quality, editorial workflow, and maintainability.
+- Stack: `Next.js`, `React`, `TypeScript`, `MDX`, `Jest`, `Cypress`,
+  `GitHub Actions`
 
-# 👋 Cześć, jestem Przemysław Pietrzak
+### [Mazowieści](https://mazowiesci.pl/)
 
-> ℹ️ English version → [EN](#top)
+Large-scale migration from Wix to WordPress with SEO and automation.
 
-### 💻 Full Stack Web Developer z Warszawy
+- Focus: content migration, scripting, and organic traffic growth.
+- Outcome: **5x** top-10 keyword growth in six months.
+- Stack: `WordPress`, `PHP`, `Python`, `Scrapy`, `HTML`, `CSS`, `SEO`
 
-Buduję aplikacje webowe od backendu po frontend, z naciskiem na **wydajność, SEO i skalowalność**. Pracuję głównie z **Next.js, React, Laravel, Pythonem i WordPressem**. Mam doświadczenie zarówno w projektach własnych, jak i komercyjnych (wdrożenia dla klientów).  
+## Core Stack
 
----
+- Frontend: `TypeScript`, `React`, `Next.js`, `Vue`, `Nuxt`,
+  `Tailwind CSS`
+- Backend: `Node.js`, `NestJS`, `Express`, `PHP`, `Laravel`, `Symfony`
+- Data and infra: `PostgreSQL`, `MySQL`, `Redis`, `Docker`,
+  `Kubernetes`, `AWS`
+- Quality: `Playwright`, `Cypress`, `Jest`, `PHPUnit`,
+  `GitHub Actions`, `Trivy`
 
-## 🧰 Technologie, z którymi pracuję
+## Now
 
-- 🔹 Next.js / React / TypeScript – nowoczesny frontend  
-- 🔹 Laravel / PHP – backend MVC, routing, Eloquent ORM  
-- 🔹 Python – web scraping, automatyzacja  
-- 🔹 WordPress – customizacja, migracje, SEO  
-- 🔹 SQL (MySQL) – relacyjne bazy danych  
-- 🔹 HTML5 / CSS3 (Flexbox, Grid, Sass/SCSS, Tailwind) – layouty responsywne  
-- 🔹 Docker / VPS / Linux – wdrażanie i utrzymanie środowisk  
-- 🔹 Git / GitHub – kontrola wersji  
-- 🔹 CI/CD (GitHub Actions) – lint, testy, build  
-- 🔹 Testy (Jest, React Testing Library, Cypress, PHPUnit) – jednostkowe i e2e  
-- 🔹 SEO i Lighthouse – audyty, optymalizacja treści i techniczna  
+- Building modern products in the `TypeScript + Node.js`
+  and PHP ecosystems.
+- Designing integrations with REST, SOAP, webhooks, OAuth2,
+  and public registries.
+- Open to selected freelance, consulting, and B2B opportunities.
 
----
+## Contact
 
-## 🚀 Moje projekty
+- Website: [pietrzakprzemyslaw.pl](https://pietrzakprzemyslaw.pl)
+- Email: [contact@pietrzakprzemyslaw.pl](mailto:contact@pietrzakprzemyslaw.pl)
+- LinkedIn: [linkedin.com/in/przempietrzak](https://www.linkedin.com/in/przempietrzak/)
+- Location: Warsaw, Poland
 
-### 📰 [Mazowieści – Migracja i optymalizacja SEO](https://mazowiesci.pl)
-Migracja dużego portalu informacyjnego z WIX do WordPress. Zautomatyzowałem ekstrakcję artykułów (Python + Scrapy), stworzyłem skrypty PHP do integracji danych i wdrożyłem politykę SEO.  
-📈 Efekt: liczba słów kluczowych w TOP10 w Google wzrosła niemal **5x w ciągu 6 miesięcy**.  
-**Stack:** Python (Scrapy), WordPress, PHP, SEO, HTML, CSS, REST API  
+> Need a migration, integration, or product MVP?
+> Reach out by email or LinkedIn.
 
----
+## Polska wersja
 
-### 🏛️ [CASN – Aplikacja Laravel (MVP)](https://casn.pietrzakprzemyslaw.pl)
-Pierwsza wersja aplikacji webowej w Laravel: struktura MVC, routing, responsywne widoki Blade, deploy na hosting.  
-**Stack:** Laravel, PHP, Blade, Git, SEO  
+Jestem fullstack developerem z Warszawy.
+Projektuję i wdrażam aplikacje webowe end to end:
+od frontendu i backendu, przez integracje API,
+po infrastrukturę, SEO i automatyzację procesów.
 
----
+Najmocniej pracuję dziś w stacku `TypeScript`, `React`, `Next.js`,
+`Node.js`, `NestJS` oraz nowoczesne PHP, a komercyjnie realizowałem
+projekty także w `Laravel`, `Symfony`, `Vue/Nuxt`, `WordPress`,
+`Redis`, `PostgreSQL`, `Docker` i `Kubernetes`.
 
-### 🏛️ [CASN – Upgrade do Next.js](https://casn.pl)
-Rozwój projektu CASN: modernizacja frontendu do **Next.js + TypeScript + MDX**, kompatybilność z wcześniejszą wersją Laravel.  
-**Stack:** Next.js, React, TypeScript, MDX, Bootstrap (legacy), Git  
+Najważniejsze efekty:
 
----
-
-### 🌐 [Fundacja Służba Niepodległej – utrzymanie strony](https://sluzbaniepodleglej.pl)
-Administrowanie i rozwój strony fundacji opartej na WordPress: wdrażanie nowych podstron, poprawa wydajności, strategia SEO i optymalizacja treści.  
-**Stack:** WordPress, PHP, CSS, HTML, Google Search Console, SEO  
-
----
-
-## 📬 Kontakt
-
-- 🌍 [pietrzakprzemyslaw.pl](https://pietrzakprzemyslaw.pl)  
-- ✉️ p.pietrzak@sluzbaniepodleglej.pl  
-- 📍 Warszawa, Polska  
-
-</div>
+- wzrost widoczności SEO klienta **5x w 6 miesięcy**
+- migracja **1200+ artykułów** z Wix do WordPressa
+- obniżenie kosztów utrzymania IT o **około 90%**
+- podniesienie pokrycia testami do **95%**
