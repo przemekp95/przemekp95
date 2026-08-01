@@ -1,19 +1,30 @@
 # Przemysław Pietrzak
 
-> Fullstack Developer based in Warsaw, Poland.
-> I build scalable web apps, API integrations, automation,
-> and SEO-aware migrations for SMEs, NGOs, and product teams.
+> Full-stack TypeScript Developer based in Warsaw, Poland.
+> I build and deploy web and mobile products with React/Next.js,
+> Node.js/NestJS, React Native/Expo, and Flutter.
+> I also develop PHP/Symfony systems, APIs, integrations, and background jobs.
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
-  <img src="assets/readme-banner.svg" alt="Profile banner" />
+  <img
+    src="assets/readme-banner.svg"
+    alt="Przemysław Pietrzak — Full-stack TypeScript Developer"
+  />
 </p>
 
 <p align="center">
   <a href="https://pietrzakprzemyslaw.pl">
     <img
-      src="https://img.shields.io/badge/Website-pietrzakprzemyslaw.pl-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Website"
+      src="https://img.shields.io/badge/Portfolio-pietrzakprzemyslaw.pl-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/przempietrzak/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Przemyslaw_Pietrzak-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
     />
   </a>
   &nbsp;&nbsp;
@@ -24,130 +35,94 @@
     />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/przempietrzak/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Przemyslaw_Pietrzak-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/przemekp95">
-    <img
-      src="https://img.shields.io/badge/GitHub-przemekp95-111827?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-</p>
 <!-- markdownlint-enable MD033 -->
 
-## What I Build
+## Selected Projects
 
-- Product MVPs, internal platforms, and bespoke business tools.
-- Integrations with REST, SOAP, webhooks, OAuth2, and public registries.
-- Modernization of legacy PHP and WordPress systems into maintainable stacks.
-- Delivery pipelines with tests, CI/CD, security checks,
-  and infrastructure automation.
+A representative selection of my work, not a complete project list.
 
-## Selected Results
+### [ORGON — HR system](https://product-web-production-4e4f.up.railway.app/product)
 
-- Grew a client portal's Google top-10 visibility by **5x in 6 months**.
-- Migrated **1200+ articles** from Wix to WordPress with automation.
-- Cut infrastructure and maintenance costs by **about 90%**
-  after VPS migration and optimization.
-- Raised automated testing coverage to **95%**
-  in projects using Jest and Cypress.
+HR system developed in one monorepo with a Symfony API and worker,
+a Next.js web application, Go tooling, and PostgreSQL.
 
-## Featured Projects
+- Architecture: separate command, query, and event buses; infrastructure
+  ports and adapters; transactional outbox with idempotent handlers,
+  retries, and dead-letter states.
+- Delivery: four Railway services, automated CI gates, daily PostgreSQL
+  backups, and isolated restore drills.
+- Stack: `PHP 8.2+`, `Symfony 7.4`, `Doctrine`, `Messenger`, `Next.js 16`,
+  `TypeScript`, `Go`, `PostgreSQL`, `Docker`, `Railway`.
 
-### [PP Solutions](https://ppsolutions.com.pl/)
+### [PP Solutions — website and platform](https://ppsolutions.com.pl/)
 
-Custom CMS and lightweight CRM for a service business.
+Bilingual B2B platform for presenting services, collecting enquiries,
+and supporting company processes.
 
-- Focus: lead intake, client communication, and admin dashboards.
-- Outcome: one platform for website content, project intake,
-  and internal operations.
-- Stack: `Next.js`, `Node.js`, `Express`, `TypeScript`, `PostgreSQL`,
-  `Redis`, `BullMQ`, `OAuth2`, `JWT`, `Ansible`
+- Architecture: modular monolith with capability-aligned modules,
+  application use cases, ports and adapters, and repository interfaces.
+- Contract: OpenAPI is the source of truth for a generated TypeScript client.
+- Stack: `Next.js`, `React`, `TypeScript`, `Fastify`, `PostgreSQL`, `Redis`,
+  `Render`.
 
-### LegatoDesk
+### [CASN — Laravel to Next.js](https://casn.pl/)
 
-Legal-tech product built around a TypeScript-first platform
-and background job processing.
+Modernization of an editorial Laravel/Blade site into a publishing platform
+built with Next.js and TypeScript.
 
-- Focus: modular product development for the legal industry.
-- Stack: `Next.js`, `NestJS`, `TypeScript`, `Redux Toolkit`,
-  `Redux Saga`, `Redis`, `BullMQ`, `REST APIs`
+- Architecture: the editorial CMS feeds a separate MySQL public read model;
+  TypeORM repositories and explicit migrations isolate runtime reads from
+  content editing.
+- Code: [Next.js platform](https://github.com/przemekp95/casnnext) and
+  [Laravel reference implementation](https://github.com/przemekp95/casn2).
+- Stack: `Next.js 16`, `React 19`, `TypeScript`, `Laravel 11`, `PHP 8.3`,
+  `Strapi 5`, `MySQL 8`, `Docker`, `Nginx`.
 
-### ORGON
+### [Personal portfolio](https://pietrzakprzemyslaw.pl/)
 
-Modular HR system delivered in Symfony with containerized environments
-and CI/CD.
+Bilingual full-stack portfolio with a Next.js frontend, NestJS backend,
+and an asynchronously delivered contact form.
 
-- Focus: maintainability, deployment consistency, and performance.
-- Stack: `Symfony`, `Twig`, `MySQL`, `Docker`, `Kubernetes`, `Vue`,
-  `FastAPI`, `Trivy`
+- Architecture: ports and adapters plus repository pattern in the contact
+  and portfolio modules; outbox delivery with retry/backoff, idempotency,
+  and signed provider webhooks.
+- Code: [przemekp95/wizytowka](https://github.com/przemekp95/wizytowka).
+- Stack: `TypeScript`, `React`, `Next.js 16`, `NestJS 11`, `MongoDB`,
+  `Prisma`, `REST`, `GraphQL`, `Docker`, `Playwright`.
 
-### [CASN](https://casn.pl/)
+## Skills
 
-Full modernization from Laravel to `Next.js + TypeScript + MDX`.
+- Frontend and mobile: `TypeScript`, `React`, `Next.js`, `React Native`, `Expo`,
+  `Flutter`, `HTML5`, `CSS3`, `Tailwind CSS`.
+- Backend and APIs: `Node.js`, `NestJS`, `Fastify`, `PHP`, `Symfony`,
+  `Laravel`, `REST`, `GraphQL`, `OpenAPI`, `Webhooks`, `WebSockets/Socket.IO`,
+  `Messenger`.
+- Data and messaging: `PostgreSQL`, `MySQL`, `MongoDB`, `Redis`, queues,
+  and background jobs.
+- Architecture and patterns: microservices architecture, distributed services,
+  modular monolith, Clean/Hexagonal Architecture, ports and adapters,
+  DDD-style bounded contexts, CQRS, Event Sourcing, aggregates and domain
+  events, projections, outbox/inbox, state machines, idempotency,
+  and retry/backoff.
+- Delivery: `Docker`, `GitHub Actions`, `Jenkins`, `Railway`, `Render`, `Nginx`.
+- Testing: `Playwright`, `Jest`, `React Testing Library`, `PHPUnit`, `PHPStan`,
+  and executable BDD scenarios.
 
-- Focus: release quality, editorial workflow, and maintainability.
-- Stack: `Next.js`, `React`, `TypeScript`, `MDX`, `Jest`, `Cypress`,
-  `GitHub Actions`
+## Current Focus
 
-### [Mazowieści](https://mazowiesci.pl/)
-
-Large-scale migration from Wix to WordPress with SEO and automation.
-
-- Focus: content migration, scripting, and organic traffic growth.
-- Outcome: **5x** top-10 keyword growth in six months.
-- Stack: `WordPress`, `PHP`, `Python`, `Scrapy`, `HTML`, `CSS`, `SEO`
-
-## Core Stack
-
-- Frontend: `TypeScript`, `React`, `Next.js`, `Vue`, `Nuxt`,
-  `Tailwind CSS`
-- Backend: `Node.js`, `NestJS`, `Express`, `PHP`, `Laravel`, `Symfony`
-- Data and infra: `PostgreSQL`, `MySQL`, `Redis`, `Docker`,
-  `Kubernetes`, `AWS`
-- Quality: `Playwright`, `Cypress`, `Jest`, `PHPUnit`,
-  `GitHub Actions`, `Trivy`
-
-## Now
-
-- Building modern products in the `TypeScript + Node.js`
-  and PHP ecosystems.
-- Designing integrations with REST, SOAP, webhooks, OAuth2,
-  and public registries.
-- Open to selected freelance, consulting, and B2B opportunities.
+I am focused on full-stack TypeScript, React, and Node.js roles.
+I also bring hands-on PHP/Symfony experience for APIs, queues,
+integrations, legacy modernization, and distributed web and mobile systems.
 
 ## Contact
 
-- Website: [pietrzakprzemyslaw.pl](https://pietrzakprzemyslaw.pl)
-- Email: [contact@pietrzakprzemyslaw.pl](mailto:contact@pietrzakprzemyslaw.pl)
+- Portfolio: [pietrzakprzemyslaw.pl](https://pietrzakprzemyslaw.pl)
 - LinkedIn: [linkedin.com/in/przempietrzak](https://www.linkedin.com/in/przempietrzak/)
+- Email: [contact@pietrzakprzemyslaw.pl](mailto:contact@pietrzakprzemyslaw.pl)
 - Location: Warsaw, Poland
 
-> Need a migration, integration, or product MVP?
-> Reach out by email or LinkedIn.
+## Po polsku
 
-## Polska wersja
-
-Jestem fullstack developerem z Warszawy.
-Projektuję i wdrażam aplikacje webowe end to end:
-od frontendu i backendu, przez integracje API,
-po infrastrukturę, SEO i automatyzację procesów.
-
-Najmocniej pracuję dziś w stacku `TypeScript`, `React`, `Next.js`,
-`Node.js`, `NestJS` oraz nowoczesne PHP, a komercyjnie realizowałem
-projekty także w `Laravel`, `Symfony`, `Vue/Nuxt`, `WordPress`,
-`Redis`, `PostgreSQL`, `Docker` i `Kubernetes`.
-
-Najważniejsze efekty:
-
-- wzrost widoczności SEO klienta **5x w 6 miesięcy**
-- migracja **1200+ artykułów** z Wix do WordPressa
-- obniżenie kosztów utrzymania IT o **około 90%**
-- podniesienie pokrycia testami do **95%**
+Tworzę i wdrażam aplikacje full-stack w TypeScript: React i Next.js
+po stronie frontendu oraz Node.js i NestJS po stronie backendu.
+Rozwijam też systemy PHP/Symfony, API, kolejki, integracje i procesy w tle.
